@@ -9,8 +9,8 @@ Most people who send gifts to loved ones far away will never see how much their 
 
 Thank_u was created to address this problem by prompting the gift recipient to send a multimedia thank you card to the sender. The hardest parts about sending a thank you note have always been remembering to send it and figuring out how to start. Thank_u takes care of the hard part for you by sending the gift recipient a reminder to thank the sender and a few templates to choose from.
 
-![Thank_u card design page](./app/assets/ThankYouPage.png)
-![Thank you card](./app/assets/Renew.png)
+![Thank_u card design page](./app/assets/ThankYouPage.png)(./pic/pic1_50.png =20%)
+![Thank you card](./app/assets/Renew.png)(./pic/pic1_50.png =20%)
 
 ## Technologies
 A rails backend with a postgres database was implemented in the background.
